@@ -1,5 +1,5 @@
 # Perceptron
-Perceptron assignment conducted at University of Liverpool
+Perceptron program conducted at University of Liverpool
 
 
 Unzip the CA1data.zip folder given in assignment
