@@ -254,7 +254,7 @@ for i in range(0,len(labelSet)):
     
 
 
-###################### QUESTION 4 ##########################
+###################### QUESTION 3 ##########################
  
 new_traindata1=dataTrainPreprocess(label_train, labelSet1[0])
 new_traindata2=dataTrainPreprocess(label_train, labelSet1[1])
@@ -281,7 +281,7 @@ accuracy=multiTestCal(new_testdata,w1,b1,w2,b2,w3,b3)
 print("Testing Accuracy for Multi class: ",accuracy)  
 
     
-####################### QUESTION 5 ##########################
+####################### QUESTION 4 ##########################
 l2reg=[0.01,0.1,1.0,10.0,100.0]
 l2class=['0.01','0.1','1.0','10.0','100.0']
 
